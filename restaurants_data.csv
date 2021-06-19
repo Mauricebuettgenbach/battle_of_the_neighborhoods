@@ -1,0 +1,108 @@
+STREET,ZIP_CODE,CITY,LATITUDE,LONGITUDE,MUNICIPALITY
+Gut-Daemme-Strasse 1,52070,Aachen,50.79733485,6.107449721604213,Aachen
+Franziskanergasse 5,92224,Amberg,49.446234,11.855467623430313,Amberg
+Pearl-S.-Buck-Strasse 12,86156,Augsburg,48.3718367,10.865182171690943,Augsburg
+Albert-Schenavsky-Str. 2,86165,Augsburg,48.3818569,10.9315474,Augsburg
+Maximilianstrasse 83,95444,Bayreuth,49.9441965,11.5711589,Bayreuth
+Hilda-Geiringer-Weg 4,10557,Berlin,52.5266907,13.3724523,Berlin
+Alt Mahlsdorf 88,12623,Berlin,52.5036492,13.622051596334316,Berlin
+Memhardstrasse 3,10178,Berlin,52.5237679,13.4102103,Berlin
+Mildred-Harnack-Str. 11,10243,Berlin,52.5057999,13.4420048,Berlin
+Savignyplatz 5,10623,Berlin,52.5065041,13.3229365,Berlin
+Obernstrasse 53 - 55,33602,Bielefeld,52.0193142,8.5275425,Bielefeld
+Budapester Strasse 38 - 50,10787,Berlin,52.5059861,13.3348949,Berlin
+Am Einkaufszentrum 4,44791,Bochum,51.49437655,7.284275646627817,Bochum
+Portlandweg 4,53227,Bonn,50.7181825,7.1500812,Bonn
+Carl-Benz-Strasse 11,53332,Bornheim,50.76253425,7.029289203806213,Bornheim
+Hans-Bredow-Str. 9,28307,Bremen,53.0523026,8.9604463,Bremen
+Eugen-Saenger-Ring 3,85649,Brunnthal,48.042506,11.6648203,Taufkirchen
+Grutholzallee 9,44577,Castrop-Rauxel,51.5667192,7.31694239867247,Castrop-Rauxel
+Wilhelminenstrasse 10,64283,Darmstadt,49.869855,8.652279,Darmstadt
+Hamburgerstrasse 23 a,41540,Dormagen,51.0914727,6.8090599,Dormagen
+Friedensplatz 8,44137,Dortmund,51.5117501,7.4660268,Dortmund
+Europaplatz 3,44269,Dortmund,51.5023357,7.523893899999999,Dortmund
+Prager Strasse 1 c,1069,Dresden,51.0453719,13.736244,Dresden
+Wilsdruffer Str. 14 - 16,1067,Dresden,51.050286,13.740422,Dresden
+Schifferstrasse 190,47059,Duisburg,51.4417407,6.7704969,Duisburg
+Fehlender Feld 4,52353,Dueren,50.8301979,6.471653,Düren
+Berliner Allee 8,40212,Duesseldorf,51.22598835,6.783854807099933,Düsseldorf
+Jahnstrasse 1,40215,Duesseldorf,51.2181795,6.7806217,Düsseldorf
+Theodorstrasse 194,40472,Duesseldorf,51.2723936,6.8153947,Düsseldorf
+Untere Karlstrasse 7,91054,Erlangen,49.5963095,11.0057921,Erlangen
+Ruettenscheider Strasse 187 - 189,45131,Essen,51.4304646,7.0034992,Essen
+Kennedyplatz 6,45127,Essen,51.4566904,7.0103342,Essen
+Abt-Fulrad-Strasse 2,73728,Esslingen,48.7417788,9.3050021,Esslingen am Neckar
+Rudolf-Breitscheid-Str. 7,90762,Fuerth,49.4737867,10.989817,Fürth
+Robert-Hesse-Str. 3,30827,Garbsen,52.4286154,9.6228351,Garbsen
+Willy-Brandt-Allee 63,45891,Gelsenkirchen,51.550764400000006,7.075752104619264,Gelsenkirchen
+Kurze-Geismar-Strasse 9,37073,Goettingen,51.5306174,9.9377085,Göttingen
+Anklamer Strasse 108,17489,Greifswald,54.0941217,13.3883533,Greifswald
+Friedrich-Ebert-Platz 3,58095,Hagen,51.358729,7.4735771,Hagen
+Grosse Elbstrasse 49,22767,Hamburg,53.5441628,9.9467672,Hamburg
+Dammtorstrasse 12,20354,Hamburg,53.5570241,9.9879749,Hamburg
+Winterhuder Marktplatz 17,22299,Hamburg,53.5949924,9.999156,Hamburg
+Lavesstrasse 1 - 2,30159,Hannover,52.3742761,9.7447872,Hannover
+Vahrenwalder Strasse 269,30179,Hannover,52.415796,9.7330537,Hannover
+Obere Neckarstrasse 30,74072,Heilbronn,49.141953,9.2162526,Heilbronn
+Holsterhauser Str. 186,44625,Herne,51.5285221,7.1998513626582366,Herne
+Luxemburger Strasse 146,50354,Huerth,50.8892329,6.899160454686854,Hürth
+Franziskanerstrasse 7,85049,Ingolstadt,48.7631191,11.4264028,Ingolstadt
+Leutragraben 1,7743,Jena,50.92882735,11.5846533329711,Jena
+Kamen Karree 23,59174,Kamen,51.5680729,7.6725622,Kamen
+Zaehringerstrasse 69,76133,Karlsruhe,49.0087772,8.4017012,Karlsruhe
+Durlacher Allee 73,76131,Karlsruhe,49.006577,8.432339104813224,Karlsruhe
+Koenigsplatz 36,34117,Kassel,51.3152035,9.4984152,Kassel
+Bahnhofstrasse 1,87435,Kempten,47.7238443,10.315003177430585,Kempten (Allgäu)
+Raiffeisenstrasse 1,24103,Kiel,54.3162853,10.1322076,Kiel
+Emmericher Str 271,47533,Kleve,51.794605,6.148400109468934,Kleve
+Am Plan 14 - 16,56068,Koblenz,50.3602197,7.5949223,Koblenz
+Hans-Imhoff-Strasse 4,50679,Koeln,50.9419055,6.9754016,Köln
+Ebertplatz 14 - 16,50668,Koeln,50.9500095,6.9583098,Köln
+Martinstrasse 1,50667,Koeln,50.9358267,6.9588906,Köln
+Hahnenstr. 37,50667,Koeln,50.935616,6.9431566,Köln
+Zusestrasse 52,50859,Koeln,50.9523366,6.840117664448431,Köln
+Am Kabellager 5,51063,Koeln,50.9690397,7.0103556,Köln
+Im Zollhafen 2 - 4,50678,Koeln,50.9311505,6.9641304,Köln
+Reichenaustrasse 15,78467,Konstanz,47.6712656,9.167734346581195,Konstanz
+Altstadt 218,84028,Landshut,48.5339872,12.1506163,Landshut
+Felix-Wankel-Strasse 1,40764,Langenfeld,51.116208,6.918090023216963,Langenfeld (Rhld.)
+Martin-Luther-Ring 12,4109,Leipzig,51.337506,12.3715937,Leipzig
+Bahnhofsplatz 11,79539,Loerrach,47.61429845,7.6636995,Lörrach
+Marstall-Center Ludwigsburg,71634,Ludwigsburg,48.8997438,9.1895346,Ludwigsburg
+Ernst-Reuter-Allee 11,39104,Magdeburg,52.12998415,11.637537092153195,Magdeburg
+Holzhofstrasse 7,55116,Mainz,49.993973,8.2772903,Mainz
+Friedrichsplatz 12,68165,Mannheim,49.4826248,8.4772967,Mannheim
+Herzlia Allee 125,45770,Marl,51.6439655,7.1022363,Marl
+Schleswiger Str. 34,41068,Moenchengladbach,51.1954824,6.4138364,Mönchengladbach
+Innere Wiener Strasse 2,81667,Muenchen,48.1324351,11.5909161,München
+Bauhausplatz 4 - 6,80807,Muenchen,48.18673315,11.592507945182753,München
+Elisabethstrasse 52,80796,Muenchen,48.1597556,11.5653969,München
+Arnulfstrasse 1,80335,Muenchen,48.14125335,11.55909085,München
+Lenbachplatz 8,80333,Muenchen,48.1401245,11.5678633,München
+Leopoldstrasse 28 A,80802,Muenchen,48.1575907,11.58462,München
+Pasinger Marienplatz 1,81241,Muenchen,48.1466817,11.4596014,München
+Schwanthaler Str. 111,80339,Muenchen,48.1374519,11.5475617,München
+Windthorststrasse 31,48143,Muenster,51.9580024,7.6299224,Münster
+Hans-Sachs-Platz 14,90403,Nuernberg,49.4537892,11.0798507,Nürnberg
+Am Tullnaupark 9,90402,Nuernberg,49.4496606,11.1030779,Nürnberg
+Brammenring 117,46047,Oberhausen,51.4894501,6.887305716014977,Oberhausen
+Poststrasse 1 - 3,26122,Oldenburg,53.139888,8.2176433,Oldenburg (Oldb)
+Neumarkt 1,49074,Osnabrueck,52.2730113,8.0502902,Osnabrück
+Hannoversche Strasse 11,49084,Osnabrueck,52.2651057,8.0636163,Osnabrück
+Koenigsplatz 15,33098,Paderborn,51.7173001,8.750727,Paderborn
+Bahnhofstr. 24 - 28,94032,Passau,48.5742688,13.4551163,Passau
+Marktplatz 1,75175,Pforzheim,48.89088925,8.703051840862337,Pforzheim
+Otto-Braun-Platz 1,14467,Potsdam,52.3944599,13.0615862,Potsdam
+Watmarkt 1,93047,Regensburg,49.0202337,12.0960876,Regensburg
+Adlzreiterstrasse 17,83022,Rosenheim,47.8580635,12.129096516730463,Rosenheim
+Steinstrasse 9,18055,Rostock,54.0879283,12.1409175,Rostock
+Trierer Strasse 33,66111,Saarbruecken,49.24113005,6.986267822913075,Saarbrücken
+Kronprinzstrasse 11,70173,Stuttgart,48.7757915,9.175172993648331,Stuttgart
+Mailaender Platz 7,70173,Stuttgart,48.7912683,9.18210547813516,Stuttgart
+Boysenstrasse 3,25980,Westerland,54.9061649,8.3050033,Sylt
+Fleischstrasse 56,54290,Trier,49.75507,6.6379043,Trier
+Junkersring 1,53844,Troisdorf,50.815674900000005,7.108566274315312,Troisdorf
+Judenhof 8,89073,Ulm,48.3985147,9.9951779,Ulm
+Almosenberg 17,97877,Wertheim,49.7726765,9.5785861,Wertheim
+Baerenstrasse 3,65183,Wiesbaden,50.0844598,8.2413938,Wiesbaden
+Erholungstrasse 19,42103,Wuppertal,51.2573463,7.1442107,Wuppertal
