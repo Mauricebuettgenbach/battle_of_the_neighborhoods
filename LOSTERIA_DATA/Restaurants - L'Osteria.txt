@@ -1,0 +1,2286 @@
+L'Osteria <https://losteria.net/de/>
+
+  * Restaurants <https://losteria.net/de/restaurants/>
+  * Speisekarte <https://losteria.net/de/speisekarte/pizza/>
+  * Reservieren <https://losteria.net/de/reservieren/>
+  * Shop <https://shop.losteria.de/>
+  * Delivery <https://delivery.losteria.de/storedata/listStore>
+  * Karriere <https://losteria.net/de/karriere/>
+  * Über uns <https://losteria.net/de/ueber-uns/>
+      o Aktuelles <https://losteria.net/de/aktuelles/>
+      o Presse <https://losteria.net/de/aktuelles/presse/>
+      o Feedback <https://losteria.net/de/feedback/>
+      o Aktuelles <https://losteria.net/de/aktuelles/>
+      o Presse <https://losteria.net/de/aktuelles/presse/>
+      o Feedback <https://losteria.net/de/feedback/>
+
+L'Osteria Piccola <https://losteria-piccola.net/de/>
+
+  *
+  * <https://losteria.net/de/restaurants/>
+  * DE
+  *
+
+Los
+
+  * DE
+    <https://losteria.net/de/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * AT
+    <https://losteria.net/at/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * CH
+    <https://losteria.net/ch/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * CH+FR
+    <https://losteria.net/ch-fr/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * FR
+    <https://losteria.net/fr/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * EN
+    <https://losteria.net/en/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * NL
+    <https://losteria.net/nl/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * CZ
+    <https://losteria.net/cz/restaurace/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+  * LU
+    <https://losteria.net/lu/restaurants/view/list/?tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Bcountry%5D=de&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BsearchTerm%5D=&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5Btype%5D=open&tx_losteriarestaurants_restaurantsreopening%5Bfilter%5D%5BmapView%5D=&cHash=6d126f1cfc4964f9c642d679c3674314>
+
+  * <https://losteria.net/de/restaurants/>
+  * <https://losteria.net/de/speisekarte/pizza/>
+  * <https://losteria.net/de/reservieren/>
+  *
+
+  * <https://facebook.com/losteria>
+  * <https://instagram.com/losteria.de/>
+  * <https://www.youtube.com/channel/UC_GNGspDcWMsY1IZKzU5O1g>
+
+Deutschland
+**
+
+Avanti
+
+Geöffnet
+
+Delivery
+
+Vor Ort
+
+------------------------------------------------------------------------
+Aachen Gut-Dämme-Straße
+<https://losteria.net/de/restaurants/restaurant/aachen-gut-daemme-strasse/>
+
+
+      Aachen Gut-Dämme-Straße
+      <https://losteria.net/de/restaurants/restaurant/aachen-gut-daemme-strasse/>
+
+
+Gut-Dämme-Straße 1, 52070 Aachen
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/aachen-gut-daemme-strasse/>
++49 241 96979929 <tel:+4924196979929>
+aachen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6wwydajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=107&cHash=fb3d011f50ff4d2c429996fb00cbdf7f>
+
+<https://losteria.net/de/reservieren/?restaurant=107&cHash=9645015a7ca2e78057aaccc40aea4099>
+
+<https://delivery.losteria.de/>
+L'Osteria Amberg <https://losteria.net/de/restaurants/restaurant/amberg/>
+
+
+      Amberg <https://losteria.net/de/restaurants/restaurant/amberg/>
+
+Franziskanergasse 5, 92224 Amberg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/amberg/>
++49 9621 7884040 <tel:+4996217884040>
+amberg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6wixancWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=62&cHash=95d24b68420ac5744e981bb98c428460>
+
+<https://losteria.net/de/reservieren/?restaurant=62&cHash=1f40eccf7a436a03e12f631a9e44d1cd>
+
+<https://delivery.losteria.de/>
+L'Osteria Augsburg
+<https://losteria.net/de/restaurants/restaurant/augsburg/>
+
+
+      Augsburg <https://losteria.net/de/restaurants/restaurant/augsburg/>
+
+Pearl-S.-Buck-Straße 12, 86156 Augsburg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/augsburg/>
++49 821 90794636 <tel:+4982190794636>
+augsburg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6wqcoxqncWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=1&cHash=98c2cef31cb3e52a75247fcda85fc9f6>
+
+<https://losteria.net/de/reservieren/?restaurant=1&cHash=898e3a81dd715440329d1173a60ed858>
+
+<https://delivery.losteria.de/>
+L'Osteria Augsburg-Lechhausen
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/augsburg-lechhausen/>
+
+
+      Augsburg-Lechhausen
+      <https://losteria.net/de/restaurants/restaurant/augsburg-lechhausen/>
+
+Albert-Schenavsky-Str. 2, 86165 Augsburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/augsburg-lechhausen/>
+augsburg.lechhausen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6wqcoxqnc:hayddwqoajWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=916&cHash=cc59c79442789f29d2acbaa702a9d058>
+
+<http://>
+L'Osteria Bayreuth
+<https://losteria.net/de/restaurants/restaurant/bayreuth/>
+
+
+      Bayreuth <https://losteria.net/de/restaurants/restaurant/bayreuth/>
+
+Maximilianstrasse 83, 95444 Bayreuth
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/bayreuth/>
++49 921 53041552 <tel:+4992153041552>
+bayreuth@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xwunaqpdWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=53&cHash=d4016b2939079666aaea3fb00f49bc27>
+
+<https://losteria.net/de/reservieren/?restaurant=53&cHash=d874b235f6d4bda4393ac6cba43f50f0>
+
+<https://delivery.losteria.de/>
+L'Osteria Berlin Humboldthafen
+<https://losteria.net/de/restaurants/restaurant/berlin-humboldthafen/>
+
+
+      Berlin Humboldthafen
+      <https://losteria.net/de/restaurants/restaurant/berlin-humboldthafen/>
+
+
+Hilda-Geiringer-Weg 4, 10557 Berlin
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/berlin-humboldthafen/>
++49 30 2067 95961 <tel:+4930206795961>
+humboldthafen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dqixkhzpdwbajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=81&cHash=fde4f68ded9adcc32d22d39beddb0887>
+
+<https://losteria.net/de/reservieren/?restaurant=81&cHash=91581d6f30242cad6f4d5a0f6d0b7a90>
+
+<https://delivery.losteria.de/>
+L'Osteria Berlin Mahlsdorf
+<https://losteria.net/de/restaurants/restaurant/berlin-mahlsdorf/>
+
+
+      Berlin Mahlsdorf
+      <https://losteria.net/de/restaurants/restaurant/berlin-mahlsdorf/>
+
+Alt Mahlsdorf 88, 12623 Berlin
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/berlin-mahlsdorf/>
++49 30 641613 60 <tel:+493064161360>
+mahlsdorf@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iwdhozknbWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=73&cHash=144a2b5b143ac9e433cd9c457b2b8841>
+
+<https://losteria.net/de/reservieren/?restaurant=73&cHash=0b1f4c996b72a236654247b4d369c0ed>
+
+<https://delivery.losteria.de/>
+L'Osteria Berlin Memhardstraße
+<https://losteria.net/de/restaurants/restaurant/berlin-memhardstrasse/>
+
+
+      Berlin Memhardstraße
+      <https://losteria.net/de/restaurants/restaurant/berlin-memhardstrasse/>
+
+
+Memhardstraße 3, 10178 Berlin
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/berlin-memhardstrasse/>
++49 30 28043240 <tel:+493028043240>
+memhardstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iaidwnzopnwooaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=80&cHash=2117dd991753da2f3795057f9fc0f015>
+
+<https://losteria.net/de/reservieren/?restaurant=80&cHash=3c96082c6273659ff9008854665a4bac>
+
+<https://delivery.losteria.de/>
+L'Osteria Berlin Mercedes Platz
+<https://losteria.net/de/restaurants/restaurant/berlin-mercedes-platz/>
+
+
+      Berlin Mercedes Platz
+      <https://losteria.net/de/restaurants/restaurant/berlin-mercedes-platz/>
+
+
+Mildred-Harnack-Str.11, 10243 Berlin
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/berlin-mercedes-platz/>
++49 30 26109200 <tel:+493026109200>
+berlin.mercedesplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xanhej:ianyazaolhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=75&cHash=04d628e598961e4653cfb1d8a21d4cfb>
+
+<https://losteria.net/de/reservieren/?restaurant=75&cHash=283c5ed676396323fef578e682b86566>
+
+<https://delivery.losteria.de/>
+L'Osteria Berlin Savignyplatz
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/berlin-savignyplatz/>
+
+
+      Berlin Savignyplatz
+      <https://losteria.net/de/restaurants/restaurant/berlin-savignyplatz/>
+
+Savignyplatz 5, 10623 Berlin
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/berlin-savignyplatz/>
+feedback@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6baazxwygWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=894&cHash=bcf45b8cfd89048e54610e51509d429c>
+
+<http://>
+L'Osteria Bielefeld
+<https://losteria.net/de/restaurants/restaurant/bielefeld/>
+
+
+      Bielefeld <https://losteria.net/de/restaurants/restaurant/bielefeld/>
+
+Obernstraße 53-55, 33602 Bielefeld
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/bielefeld/>
++49 521 97796270 <tel:+4952197796270>
+bielefeld@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xeahabahzWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=4&cHash=223d47e3be901a8857cd8a0d5544b6d8>
+
+<https://losteria.net/de/reservieren/?restaurant=4&cHash=60090b8c281933cb76b80086945495df>
+
+<https://delivery.losteria.de/>
+L'Osteria Bikini Berlin
+<https://losteria.net/de/restaurants/restaurant/bikini-berlin/>
+
+
+      Bikini Berlin
+      <https://losteria.net/de/restaurants/restaurant/bikini-berlin/>
+
+Budapester Straße 38-50, 10787 Berlin
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/bikini-berlin/>
++49 30 25794325 <tel:+493025794325>
+bikiniberlin@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xegejexanhejWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=2&cHash=07f9bbcb2bb3f4639fb89cf91039ee14>
+
+<https://losteria.net/de/reservieren/?restaurant=2&cHash=1700d716628f045631b307fc1b1dd0c3>
+
+<https://delivery.losteria.de/>
+L'Osteria Bochum <https://losteria.net/de/restaurants/restaurant/bochum/>
+
+
+      Bochum <https://losteria.net/de/restaurants/restaurant/bochum/>
+
+Am Einkaufszentrum 4, 44791 Bochum
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/bochum/>
++49 234 91283300 <tel:+4923491283300>
+bochum@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xkydqiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=58&cHash=97463f0586929595132e92cace6f2fb3>
+
+<https://losteria.net/de/reservieren/?restaurant=58&cHash=09e032ff905cb35b321576957220a567>
+
+<https://delivery.losteria.de/>
+Bonn In der Sürst
+<https://losteria.net/de/restaurants/restaurant/bonn-in-der-suerst/>
+
+
+      Bonn In der Sürst
+      <https://losteria.net/de/restaurants/restaurant/bonn-in-der-suerst/>
+
+In der Sürst 3, 53111 Bonn
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/bonn-in-der-suerst/>
++49 228 29975588 <tel:+4922829975588>
+bonn.indersuerst@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xkjj:ejzanoqanopWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=101&cHash=a5991961066ac987cca764d973850e82>
+
+<https://losteria.net/de/reservieren/?restaurant=101&cHash=1264b143d830e77eb8abf24670328416>
+
+<https://delivery.losteria.de/>
+L'Osteria Bonn Rheinwerk
+<https://losteria.net/de/restaurants/restaurant/bonn-rheinwerk/>
+
+
+      Bonn Rheinwerk
+      <https://losteria.net/de/restaurants/restaurant/bonn-rheinwerk/>
+
+Portlandweg 4, 53227 Bonn
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/bonn-rheinwerk/>
++49 228 98148488 <tel:+4922898148488>
+bonn@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xkjjWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=13&cHash=46979f7542b182cfbcb6f14cdf7a9dcc>
+
+<https://losteria.net/de/reservieren/?restaurant=13&cHash=23953f83b7ff1b8afa314a6399d686d9>
+
+<https://delivery.losteria.de/>
+L'Osteria Bornheim
+<https://losteria.net/de/restaurants/restaurant/bornheim/>
+
+
+      Bornheim <https://losteria.net/de/restaurants/restaurant/bornheim/>
+
+Carl-Benz-Straße 11, 53332 Bornheim
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/bornheim/>
++49 2222 9272733 <tel:+4922229272733>
+bornheim@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xknjdaeiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=14&cHash=974c484ae4065d909405d35ef67f80cc>
+
+<https://losteria.net/de/reservieren/?restaurant=14&cHash=3c8910bf71a42e412565bdb466e4b032>
+
+<https://delivery.losteria.de/>
+L'Osteria Braunschweig
+<https://losteria.net/de/restaurants/restaurant/braunschweig/>
+
+
+      Braunschweig
+      <https://losteria.net/de/restaurants/restaurant/braunschweig/>
+
+BraWo-Allee 1, 38102 Braunschweig
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/braunschweig/>
++49 531 70747190 <tel:+4953170747190>
+braunschweig@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xnwqjoydsaecWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=56&cHash=4a86c5e6d5bb53f057f5bbd700851985>
+
+<https://losteria.net/de/reservieren/?restaurant=56&cHash=fca99876e522e28ba7a93b268b5101de>
+
+<https://delivery.losteria.de/>
+L'Osteria Bremen Weserpark
+Neu Sommer 2021
+<https://losteria.net/de/restaurants/restaurant/bremen-weserpark/>
+
+
+      Bremen Weserpark
+      <https://losteria.net/de/restaurants/restaurant/bremen-weserpark/>
+
+Hans-Bredow-Str. 9, 28307 Bremen
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/bremen-weserpark/>
+bremen-weserpark@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xnaiaj9saoanlwngWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=919&cHash=b8dce49bd847895b9382adfded862bdf>
+
+<http://>
+L'Osteria Brunnthal Eugen-Sänger-Ring
+<https://losteria.net/de/restaurants/restaurant/brunnthal-eugen-saenger-ring/>
+
+
+
+      Brunnthal Eugen-Sänger-Ring
+      <https://losteria.net/de/restaurants/restaurant/brunnthal-eugen-saenger-ring/>
+
+
+Eugen-Sänger-Ring 3, 85649 Brunnthal
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/brunnthal-eugen-saenger-ring/>
+
++49 89 638791281 <tel:+4989638791281>
+brunnthal.eugen-saenger-ring@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6xnqjjpdwh:aqcaj9owajcan9nejcWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=110&cHash=124c2093ae98f71b7555eb33d6b4b5fe>
+
+<https://losteria.net/de/reservieren/?restaurant=110&cHash=7eb16862a4ce5fac6f52fbaf84f5bbbf>
+
+<https://delivery.losteria.de/>
+L'Osteria Castrop-Rauxel
+<https://losteria.net/de/restaurants/restaurant/castrop-rauxel/>
+
+
+      Castrop-Rauxel
+      <https://losteria.net/de/restaurants/restaurant/castrop-rauxel/>
+
+Grutholzallee 9, 44577 Castrop-Rauxel
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/castrop-rauxel/>
++49 2305 5310390 <tel:+4923055310390>
+castrop-rauxel@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ywopnkl9nwqtahWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=71&cHash=8c9d4eafb119152c4f2b486ef573fe0d>
+
+<https://losteria.net/de/reservieren/?restaurant=71&cHash=ab239eb6a37545730311ca08b5169e7a>
+
+<https://delivery.losteria.de/>
+L'Osteria Darmstadt
+<https://losteria.net/de/restaurants/restaurant/darmstadt/>
+
+
+      Darmstadt <https://losteria.net/de/restaurants/restaurant/darmstadt/>
+
+Wilhelminenstrasse 10, 64283 Darmstadt
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/darmstadt/>
++49 6151 5991150 <tel:+4961515991150>
+darmstadt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zwniopwzpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=49&cHash=eee5408cb5d15f8649fce84672b852e2>
+
+<https://losteria.net/de/reservieren/?restaurant=49&cHash=bb26a72a09ec62ba6feac6d6e59ee294>
+
+<https://delivery.losteria.de/>
+L'Osteria Dormagen
+<https://losteria.net/de/restaurants/restaurant/dormagen/>
+
+
+      Dormagen <https://losteria.net/de/restaurants/restaurant/dormagen/>
+
+Hamburgerstraße 23a, 41540 Dormagen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/dormagen/>
++49 2133 977 7930 <tel:+4921339777930>
+dormagen.hamburgerstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zkniwcaj:dwixqncanopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=706&cHash=79f543315130d7f00fcfcbb11648a0c4>
+
+<https://losteria.net/de/reservieren/?restaurant=706&cHash=ec16b503e46f1b8a5c78d4e525afe563>
+
+<https://delivery.losteria.de/>
+L'Osteria Dortmund
+<https://losteria.net/de/restaurants/restaurant/dortmund/>
+
+
+      Dortmund <https://losteria.net/de/restaurants/restaurant/dortmund/>
+
+Friedensplatz 8, 44137 Dortmund
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/dortmund/>
++49 231 58445524 <tel:+4923158445524>
+dortmund@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zknpiqjzWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=15&cHash=a94e2c2dfc1df2fa46b3a60b9cd06554>
+
+<https://losteria.net/de/reservieren/?restaurant=15&cHash=b6cc29b77abbff792ddb1c4b938b5b16>
+
+<https://delivery.losteria.de/>
+L'Osteria Dortmund Europaplatz
+<https://losteria.net/de/restaurants/restaurant/dortmund-europaplatz/>
+
+
+      Dortmund Europaplatz
+      <https://losteria.net/de/restaurants/restaurant/dortmund-europaplatz/>
+
+
+Europaplatz 3, 44269 Dortmund
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/dortmund-europaplatz/>
++49 231 94534841 <tel:+4923194534841>
+dortmund.europaplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zknpiqjz:aqnklwlhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=661&cHash=08df310201e9d36274062fea14c5674c>
+
+<https://losteria.net/de/reservieren/?restaurant=661&cHash=c8a3fd17d92068b08527b6bd9dc810bc>
+
+<https://delivery.losteria.de/>
+L'Osteria Dresden Prager Straße
+<https://losteria.net/de/restaurants/restaurant/dresden-prager-strasse/>
+
+
+      Dresden Prager Straße
+      <https://losteria.net/de/restaurants/restaurant/dresden-prager-strasse/>
+
+
+Prager Strasse 1c, 01069 Dresden
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/dresden-prager-strasse/>
++49 351 48451040 <tel:+4935148451040>
+pragercarree@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6lnwcanywnnaaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=64&cHash=c4a56e4ad2b100659c715907e1b29fd4>
+
+<https://losteria.net/de/reservieren/?restaurant=64&cHash=ed9c55bc64d9a54d801baa55c1c1d1e5>
+
+<https://delivery.losteria.de/>
+L'Osteria Dresden Wilsdruffer Straße
+<https://losteria.net/de/restaurants/restaurant/dresden-wilsdruffer-strasse/>
+
+
+
+      Dresden Wilsdruffer Straße
+      <https://losteria.net/de/restaurants/restaurant/dresden-wilsdruffer-strasse/>
+
+
+Wilsdruffer Str. 14-16, 01067 Dresden
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/dresden-wilsdruffer-strasse/>
+
++49 351 48287810 <tel:+4935148287810>
+dresden@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6znaozajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=16&cHash=a2bbb7c786437a42fc1e91d012dc1bd4>
+
+<https://losteria.net/de/reservieren/?restaurant=16&cHash=f4e4d662f8e32d09ce2160a105df1fe6>
+
+<https://delivery.losteria.de/>
+L'Osteria Duisburg
+<https://losteria.net/de/restaurants/restaurant/duisburg/>
+
+
+      Duisburg <https://losteria.net/de/restaurants/restaurant/duisburg/>
+
+Schifferstraße 190, 47059 Duisburg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/duisburg/>
++49 203 39345540 <tel:+4920339345540>
+duisburg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zqeoxqncWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=17&cHash=94954f01fa7ab83794651ee6f91d0c91>
+
+<https://losteria.net/de/reservieren/?restaurant=17&cHash=ed3a6d4c9fd509f4f041a120ee566471>
+
+<https://delivery.losteria.de/>
+L'Osteria Düren <https://losteria.net/de/restaurants/restaurant/dueren/>
+
+
+      Düren <https://losteria.net/de/restaurants/restaurant/dueren/>
+
+Fehlender Feld 4, 52353 Düren
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/dueren/>
++49 2421 5915444 <tel:+4924215915444>
+dueren@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zqanajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=18&cHash=2ce155e01cfcf202a5c4e311d045d198>
+
+<https://losteria.net/de/reservieren/?restaurant=18&cHash=32785c8619c00bfc23355bee0e91773f>
+
+<https://delivery.losteria.de/>
+L'Osteria Düsseldorf Berliner Allee
+Neu Sommer 2021
+<https://losteria.net/de/restaurants/restaurant/duesseldorf-berliner-allee/>
+
+
+
+      Düsseldorf Berliner Allee
+      <https://losteria.net/de/restaurants/restaurant/duesseldorf-berliner-allee/>
+
+
+Berliner Allee 8, 40212 Düsseldorf
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/duesseldorf-berliner-allee/>
+
+duesseldorf.berliner-allee@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zqaooahzknb:xanhejan9whhaaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=923&cHash=a236367fc62f87bcbc97ffcb2251f20f>
+
+<http://>
+L'Osteria Düsseldorf Jahnstraße
+<https://losteria.net/de/restaurants/restaurant/duesseldorf-jahnstrasse/>
+
+
+      Düsseldorf Jahnstraße
+      <https://losteria.net/de/restaurants/restaurant/duesseldorf-jahnstrasse/>
+
+
+Jahnstraße 1, 40215 Düsseldorf
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/duesseldorf-jahnstrasse/>
++49 211 13724200 <tel:+4921113724200>
+duesseldorf.jahnstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zqaooahzknb:fwdjopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=83&cHash=5234a70124959af2162af37ea397fa90>
+
+<https://losteria.net/de/reservieren/?restaurant=83&cHash=4e0d8d124f58fa385c6b720b0485cb97>
+
+<https://delivery.losteria.de/>
+L'Osteria Düsseldorf Theodorstraße
+<https://losteria.net/de/restaurants/restaurant/duesseldorf-theodorstrasse/>
+
+
+
+      Düsseldorf Theodorstraße
+      <https://losteria.net/de/restaurants/restaurant/duesseldorf-theodorstrasse/>
+
+
+Theodorstrasse 194, 40472 Düsseldorf
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/duesseldorf-theodorstrasse/>
+
++49 211 43080140 <tel:+4921143080140>
+duesseldorf.theodorstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6zqaooahzknb:pdakzknopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=94&cHash=2ec0118fc9572022208895a4b6f01353>
+
+<https://losteria.net/de/reservieren/?restaurant=94&cHash=4c94418ce73d47f8523daa804d15681c>
+
+<https://delivery.losteria.de/>
+L'Osteria Erlangen
+<https://losteria.net/de/restaurants/restaurant/erlangen/>
+
+
+      Erlangen <https://losteria.net/de/restaurants/restaurant/erlangen/>
+
+Untere Karlstraße 7, 91054 Erlangen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/erlangen/>
++49 9131 4012590 <tel:+4991314012590>
+erlangen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6anhwjcajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=69&cHash=8a30897d324b430958676035aad5c183>
+
+<https://losteria.net/de/reservieren/?restaurant=69&cHash=1eba07ef8476ce5059d4b71107d5104d>
+
+<https://delivery.losteria.de/>
+L'Osteria Essen <https://losteria.net/de/restaurants/restaurant/essen/>
+
+
+      Essen <https://losteria.net/de/restaurants/restaurant/essen/>
+
+Rüttenscheider Straße 187-189, 45131 Essen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/essen/>
++49 201 79884061 <tel:+4920179884061>
+essen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6aooajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=65&cHash=052f881f89b38ff16eeae8d98420ca2a>
+
+<https://losteria.net/de/reservieren/?restaurant=65&cHash=bd9d8941244a69eeb9e4c5ee05b9f718>
+
+<https://delivery.losteria.de/>
+L'Osteria Essen Kennedyplatz
+<https://losteria.net/de/restaurants/restaurant/essen-kennedyplatz/>
+
+
+      Essen Kennedyplatz
+      <https://losteria.net/de/restaurants/restaurant/essen-kennedyplatz/>
+
+Kennedyplatz 6, 45127 Essen
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/essen-kennedyplatz/>
++49 201 24859823 <tel:+4920124859823>
+essen.kennedyplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6aooaj:gajjazulhwpvWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=99&cHash=e1bdb3e19ce1f13b6a6fd1338afca5fb>
+
+<https://losteria.net/de/reservieren/?restaurant=99&cHash=022c12e2d65ff3580b58a60afb3aad5f>
+
+<https://delivery.losteria.de/>
+L'Osteria Esslingen
+<https://losteria.net/de/restaurants/restaurant/esslingen/>
+
+
+      Esslingen <https://losteria.net/de/restaurants/restaurant/esslingen/>
+
+Abt-Fulrad-Straße 2, 73728 Esslingen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/esslingen/>
++49 711 13634310 <tel:+4971113634310>
+esslingen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6aoohejcajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=3&cHash=0bd46852615da1c27bc5f20a7dd420ab>
+
+<https://losteria.net/de/reservieren/?restaurant=3&cHash=31626f4f8195ec2a56b3c67505ce1d25>
+
+<https://delivery.losteria.de/>
+L'Osteria Euskirchen
+<https://losteria.net/de/restaurants/restaurant/euskirchen/>
+
+
+      Euskirchen
+      <https://losteria.net/de/restaurants/restaurant/euskirchen/>
+
+Otto-Lillienthal-Straße 19, 53879 Euskirchen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/euskirchen/>
++49 2251 9135935 <tel:+4922519135935>
+euskirchen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6aqogenydajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=681&cHash=f20b596c20c32143124da005ff9366ae>
+
+<https://losteria.net/de/reservieren/?restaurant=681&cHash=da292943e23ccacbf9b68a49033c0958>
+
+<https://delivery.losteria.de/>
+L'Osteria Frankfurt am Main
+<https://losteria.net/de/restaurants/restaurant/frankfurt-am-main/>
+
+
+      Frankfurt am Main
+      <https://losteria.net/de/restaurants/restaurant/frankfurt-am-main/>
+
+Speicherstraße 1, 60327 Frankfurt am Main
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/frankfurt-am-main/>
++49 69 24247020 <tel:+496924247020>
+frankfurt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6bnwjgbqnpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=19&cHash=dd96da2a762b7c3fb630ad3d82e6d74e>
+
+<https://losteria.net/de/reservieren/?restaurant=19&cHash=b58e485bb8f82057b921f7d45248641c>
+
+<https://delivery.losteria.de/>
+L'Osteria Frankfurt Hanauer Landstraße
+<https://losteria.net/de/restaurants/restaurant/frankfurt-hanauer-landstrasse/>
+
+
+
+      Frankfurt Hanauer Landstraße
+      <https://losteria.net/de/restaurants/restaurant/frankfurt-hanauer-landstrasse/>
+
+
+Hanauer Landstraße 110, 60314 Frankfurt am Main
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/frankfurt-hanauer-landstrasse/>
+
+069 40565661 <tel:06940565661>
+frankfurt.hanauerlandstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6bnwjgbqnp:dwjwqanhwjzopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=910&cHash=c7801acf672e0dd5ac59758118dbeafa>
+
+<https://losteria.net/de/reservieren/?restaurant=910&cHash=844b9771faa6cb0942964be9baeb313c>
+
+<http://delivery.losteria.de/>
+L'Osteria Fürth Rudolf-Breitscheid-Straße
+<https://losteria.net/de/restaurants/restaurant/fuerth-rudolf-breitscheid-strasse/>
+
+
+
+      Fürth Rudolf-Breitscheid-Straße
+      <https://losteria.net/de/restaurants/restaurant/fuerth-rudolf-breitscheid-strasse/>
+
+
+Rudolf-Breitscheid-Str. 7, 90762 Fürth
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/fuerth-rudolf-breitscheid-strasse/>
+
++49 911 74679410 <tel:+4991174679410>
+fuerth@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6bqanpdWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=96&cHash=62fae1aac9bec08cfdff8e415ed04bd6>
+
+<https://losteria.net/de/reservieren/?restaurant=96&cHash=9ae47cebcdf3474a0a691a88a1907ed9>
+
+<https://delivery.losteria.de/>
+L'Osteria Garbsen
+Neu Sommer 2021
+<https://losteria.net/de/restaurants/restaurant/garbsen/>
+
+
+      Garbsen <https://losteria.net/de/restaurants/restaurant/garbsen/>
+
+Robert-Hesse-Str. 3, 30827 Garbsen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/garbsen/>
+garbsen.robert-hesse-strasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6cwnxoaj:nkxanp9daooa9opnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=898&cHash=e1f56fdd472a6b1abe5f5e66338bcd90>
+
+<http://>
+L'Osteria Gelsenkirchen
+<https://losteria.net/de/restaurants/restaurant/gelsenkirchen/>
+
+
+      Gelsenkirchen
+      <https://losteria.net/de/restaurants/restaurant/gelsenkirchen/>
+
+Willy-Brandt-Allee 63, 45891 Gelsenkirchen
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/gelsenkirchen/>
++49 209 80074450 <tel:+4920980074450>
+gelsenkirchen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6cahoajgenydajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=46&cHash=5461465ad6a51c16e27cb090608ad9f5>
+
+<https://losteria.net/de/reservieren/?restaurant=46&cHash=ae260cf21bff0c7f791afdeebb5456c3>
+
+<https://delivery.losteria.de/>
+L'Osteria Göttingen
+<https://losteria.net/de/restaurants/restaurant/goettingen/>
+
+
+      Göttingen
+      <https://losteria.net/de/restaurants/restaurant/goettingen/>
+
+Kurze-Geismar-Straße 9, 37073 Göttingen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/goettingen/>
++49 551 50848510 <tel:+4955150848510>
+goettingen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ckappejcajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=44&cHash=96c2f3d61be87aa3d85b594e5dcd1fe1>
+
+<https://losteria.net/de/reservieren/?restaurant=44&cHash=5187021a145f02402808a55e9940c829>
+
+<https://delivery.losteria.de/>
+L'Osteria Greifswald
+<https://losteria.net/de/restaurants/restaurant/greifswald/>
+
+
+      Greifswald
+      <https://losteria.net/de/restaurants/restaurant/greifswald/>
+
+Anklamer Straße 108, 17489 Greifswald
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/greifswald/>
++49 3834 4419258 <tel:+4938344419258>
+greifswald@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6cnaeboswhzWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=676&cHash=246d16846050eb44dc02a1ec12c0647f>
+
+<https://losteria.net/de/reservieren/?restaurant=676&cHash=d8cb3b09d70b5c4239ffba5a86274cd3>
+
+<https://delivery.losteria.de/>
+L'Osteria Hagen
+Neu Sommer 2021
+<https://losteria.net/de/restaurants/restaurant/hagen/>
+
+
+      Hagen <https://losteria.net/de/restaurants/restaurant/hagen/>
+
+Friedrich-Ebert-Platz 3, 58095 Hagen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/hagen/>
++49 2331 3623254 <tel:+4923313623254>
+hagen.friedrich-ebert-platz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dwcaj:bneazneyd9axanp9lhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=921&cHash=a0ce74324cc601e48c528be9fecc9cde>
+
+<http://>
+L'Osteria Hamburg Bleichenbrücke
+<https://losteria.net/de/restaurants/restaurant/hamburg-bleichenbruecke-1/>
+
+
+      Hamburg Bleichenbrücke
+      <https://losteria.net/de/restaurants/restaurant/hamburg-bleichenbruecke-1/>
+
+
+Bleichenbrücke 9, 20354 Hamburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/hamburg-bleichenbruecke-1/>
++49 40 35017943 <tel:+494035017943>
+hamburg.bleichenbruecke@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dwixqnc:xhaeydajxnqaygaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=905&cHash=cc5726ac0c2de19d78ed28fd704a067c>
+
+<https://losteria.net/de/reservieren/?restaurant=905&cHash=14483e457b0086f3992f30d0320c4431>
+
+<http://delivery.losteria.de/>
+L'Osteria Hamburg Fischmarkt
+<https://losteria.net/de/restaurants/restaurant/hamburg-fischmarkt/>
+
+
+      Hamburg Fischmarkt
+      <https://losteria.net/de/restaurants/restaurant/hamburg-fischmarkt/>
+
+Große Elbstraße 49, 22767 Hamburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/hamburg-fischmarkt/>
++49 40 70298570 <tel:+494070298570>
+fischmarkt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6beoydiwngpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=85&cHash=c260762a4ba470f0b3e91fc557224924>
+
+<https://losteria.net/de/reservieren/?restaurant=85&cHash=c960f5aeaeec333a14d879f2ebb16abe>
+
+<https://delivery.losteria.de/>
+L'Osteria Hamburg Opernplaza
+<https://losteria.net/de/restaurants/restaurant/hamburg-opernplaza/>
+
+
+      Hamburg Opernplaza
+      <https://losteria.net/de/restaurants/restaurant/hamburg-opernplaza/>
+
+Dammtorstraße 12, 20354 Hamburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/hamburg-opernplaza/>
++49 40 34106788 <tel:+494034106788>
+hamburg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dwixqncWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=20&cHash=fea0d4f7a04d49626dff005fb8f32ec9>
+
+<https://losteria.net/de/reservieren/?restaurant=20&cHash=06d9e16c8b75e4e9fafe008e54a14535>
+
+<https://delivery.losteria.de/>
+L'Osteria Hamburg-Winterhude
+<https://losteria.net/de/restaurants/restaurant/hamburg-winterhude/>
+
+
+      Hamburg-Winterhude
+      <https://losteria.net/de/restaurants/restaurant/hamburg-winterhude/>
+
+Winterhuder Marktplatz 17, 22299 Hamburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/hamburg-winterhude/>
++49 40 36035110 <tel:+494036035110>
+winterhude@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6sejpandqzaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=48&cHash=f299282a729e4680cdd3ba5126d9c402>
+
+<https://losteria.net/de/reservieren/?restaurant=48&cHash=8baf544d4925a6e01857aa52cc77c4ce>
+
+<https://delivery.losteria.de/>
+L'Osteria Hannover Lavesstraße
+<https://losteria.net/de/restaurants/restaurant/hannover-lavesstrasse/>
+
+
+      Hannover Lavesstraße
+      <https://losteria.net/de/restaurants/restaurant/hannover-lavesstrasse/>
+
+
+Lavesstraße 1-2, 30159 Hannover
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/hannover-lavesstrasse/>
++49 511 84877138 <tel:+4951184877138>
+hannover@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dwjjkranWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=21&cHash=9d000c849b69189d332fad579b4b77bf>
+
+<https://losteria.net/de/reservieren/?restaurant=21&cHash=4fd5a9da5692d51c5567f5646243bd9c>
+
+<https://delivery.losteria.de/>
+L'Osteria Hannover Vahrenwalder
+<https://losteria.net/de/restaurants/restaurant/hannover-vahrenwalder/>
+
+
+      Hannover Vahrenwalder
+      <https://losteria.net/de/restaurants/restaurant/hannover-vahrenwalder/>
+
+
+Vahrenwalder Straße 269, 30179 Hannover
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/hannover-vahrenwalder/>
++49 511 67696737 <tel:+4951167696737>
+vahrenwalder@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6rwdnajswhzanWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=22&cHash=0eb7e1699d540699a930e366a8f1b435>
+
+<https://losteria.net/de/reservieren/?restaurant=22&cHash=44f2636813ab1e10ca365e7f4fe6fd77>
+
+<https://delivery.losteria.de/>
+L'Osteria Heilbronn
+<https://losteria.net/de/restaurants/restaurant/heilbronn/>
+
+
+      Heilbronn <https://losteria.net/de/restaurants/restaurant/heilbronn/>
+
+Obere Neckarstraße 30, 74072 Heilbronn
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/heilbronn/>
++49 7131 8735650 <tel:+4971318735650>
+heilbronn@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6daehxnkjjWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=51&cHash=590a5d95c81b66e95b7dd3820a30b6d1>
+
+<https://losteria.net/de/reservieren/?restaurant=51&cHash=e8758ce3c427ea97226c98798da680e4>
+
+<https://delivery.losteria.de/>
+L'Osteria Herne <https://losteria.net/de/restaurants/restaurant/herne/>
+
+
+      Herne <https://losteria.net/de/restaurants/restaurant/herne/>
+
+Holsterhauser Str. 186, 44625 Herne
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/herne/>
++49 2325 9699240 <tel:+4923259699240>
+herne@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6danjaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=23&cHash=8d118e31337c9c0e81d8a336bc70d4dd>
+
+<https://losteria.net/de/reservieren/?restaurant=23&cHash=b8bfcb6abed6414f7d92838291116957>
+
+<https://delivery.losteria.de/>
+L'Osteria Hürth <https://losteria.net/de/restaurants/restaurant/huerth/>
+
+
+      Hürth <https://losteria.net/de/restaurants/restaurant/huerth/>
+
+Luxemburger Straße 146, 50354 Hürth
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/huerth/>
++49 2233 9665011 <tel:+4922339665011>
+huerth@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dqanpdWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=24&cHash=31c0801c9eb31def097e1357d048b3bb>
+
+<https://losteria.net/de/reservieren/?restaurant=24&cHash=060da6b0d7c023190ed37a1a17cd756c>
+
+<https://delivery.losteria.de/>
+L'Osteria Ingolstadt
+<https://losteria.net/de/restaurants/restaurant/ingolstadt/>
+
+
+      Ingolstadt
+      <https://losteria.net/de/restaurants/restaurant/ingolstadt/>
+
+Franziskanerstraße 7, 85049 Ingolstadt
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/ingolstadt/>
++49 841 98161085 <tel:+4984198161085>
+ingolstadt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ejckhopwzpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=50&cHash=06eb1ce137d0c7b919eaac5f9da2e701>
+
+<https://losteria.net/de/reservieren/?restaurant=50&cHash=3f39e9bc8f1efed4a8a8df26431879a0>
+
+<https://delivery.losteria.de/>
+L'Osteria Jena Leutragraben
+<https://losteria.net/de/restaurants/restaurant/jena-leutragraben/>
+
+
+      Jena Leutragraben
+      <https://losteria.net/de/restaurants/restaurant/jena-leutragraben/>
+
+Leutragraben 1, 07743 Jena
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/jena-leutragraben/>
++49 3641 7968000 <tel:+4936417968000>
+jena@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6fajwWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=98&cHash=f6e66c3b1446158fd0ffc6494b0c12b8>
+
+<https://losteria.net/de/reservieren/?restaurant=98&cHash=3290271821c3356b361ca111bceaff58>
+
+<https://delivery.losteria.de/>
+L'Osteria Kamen <https://losteria.net/de/restaurants/restaurant/kamen/>
+
+
+      Kamen <https://losteria.net/de/restaurants/restaurant/kamen/>
+
+Kamen Karree 23, 59174 Kamen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/kamen/>
++49 2307 9731 780 <tel:+4923079731780>
+kamen.kamenkarree@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gwiaj:gwiajgwnnaaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=859&cHash=ef202e13514fff84a0b2be193d0b26d6>
+
+<https://losteria.net/de/reservieren/?restaurant=859&cHash=d1177fba9aac3294705726d48846d418>
+
+<https://delivery.losteria.de/>
+Karlsruhe <https://losteria.net/de/restaurants/restaurant/karlsruhe/>
+
+
+      Karlsruhe <https://losteria.net/de/restaurants/restaurant/karlsruhe/>
+
+Zähringerstrasse 69, 76133 Karlsruhe
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/karlsruhe/>
++49 721 81966875 <tel:+4972181966875>
+karlsruhe@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gwnhonqdaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=70&cHash=3f448bd91550a5be1bdbb6cd99d95395>
+
+<https://losteria.net/de/reservieren/?restaurant=70&cHash=b9bf27b61a3dc10a3c114fe594d70b17>
+
+<https://delivery.losteria.de/>
+L'Osteria Karlsruhe Durlacher Allee
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/karlsruhe-durlacher-allee/>
+
+
+      Karlsruhe Durlacher Allee
+      <https://losteria.net/de/restaurants/restaurant/karlsruhe-durlacher-allee/>
+
+
+Durlacher Allee 73, 76131 Karlsruhe
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/karlsruhe-durlacher-allee/>
+feedback@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6baazxwygWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=914&cHash=3641d5e42bc2096b2d543aa8b1833202>
+
+<http://>
+L'Osteria Kassel <https://losteria.net/de/restaurants/restaurant/kassel/>
+
+
+      Kassel <https://losteria.net/de/restaurants/restaurant/kassel/>
+
+Königsplatz 36, 34117 Kassel
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/kassel/>
++49 561 73982200 <tel:+4956173982200>
+kassel@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gwooahWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=61&cHash=096b3a8b0c817be653a654fe5f622c38>
+
+<https://losteria.net/de/reservieren/?restaurant=61&cHash=a6f693e115d36203b5bc994ea440b427>
+
+<https://delivery.losteria.de/>
+L'Osteria Kempten <https://losteria.net/de/restaurants/restaurant/kempten/>
+
+
+      Kempten <https://losteria.net/de/restaurants/restaurant/kempten/>
+
+Bahnhofstraße 1, 87435 Kempten
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/kempten/>
++49 831 69710570 <tel:+4983169710570>
+kempten@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gailpajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=25&cHash=1134889c8c44d181dd921b92d4d5b20a>
+
+<https://losteria.net/de/reservieren/?restaurant=25&cHash=b9fded61560649ffb990d0c96bd35c89>
+
+<https://delivery.losteria.de/>
+L'Osteria Kiel <https://losteria.net/de/restaurants/restaurant/kiel/>
+
+
+      Kiel <https://losteria.net/de/restaurants/restaurant/kiel/>
+
+Raiffeisenstraße 1, 24103 Kiel
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/kiel/>
++49 431 67072930 <tel:+4943167072930>
+kiel@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6geahWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=52&cHash=68f45c9f3ab321ccbde6a899a1464dc7>
+
+<https://losteria.net/de/reservieren/?restaurant=52&cHash=0d183cd036d594f36e6876b8f36fd9d8>
+
+<https://delivery.losteria.de/>
+L'Osteria Kleve <https://losteria.net/de/restaurants/restaurant/kleve-1/>
+
+
+      Kleve <https://losteria.net/de/restaurants/restaurant/kleve-1/>
+
+Emmericher Str 271, 47533 Kleve
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/kleve-1/>
+02821 3982696 <tel:028213982696>
+kleve.emmericherstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ghara:aiianeydanopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=730&cHash=fac04921cb63593e50f59e5f1ae998a7>
+
+<https://losteria.net/de/reservieren/?restaurant=730&cHash=2930a33c5d91ab9839aad30e7c94c4b1>
+
+<https://delivery.losteria.de/>
+L'Osteria Koblenz <https://losteria.net/de/restaurants/restaurant/koblenz/>
+
+
+      Koblenz <https://losteria.net/de/restaurants/restaurant/koblenz/>
+
+Am Plan 14-16, 56068 Koblenz
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/koblenz/>
++49 261 96096080 <tel:+4926196096080>
+koblenz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gkxhajvWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=88&cHash=243842822254b2ca8ed6fdeeec63b0b7>
+
+<https://losteria.net/de/reservieren/?restaurant=88&cHash=e60bbfbac08598134e5b6db4bac48a5a>
+
+<https://delivery.losteria.de/>
+L'Osteria Köln Deutz
+<https://losteria.net/de/restaurants/restaurant/koeln-deutz/>
+
+
+      Köln Deutz
+      <https://losteria.net/de/restaurants/restaurant/koeln-deutz/>
+
+Hans-Imhoff-Straße 4, 50679 Köln
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/koeln-deutz/>
++49 221 9999 4616 <tel:+4922199994616>
+koeln.deutz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gkahj:zaqpvWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=895&cHash=993271e1d48aa51693f63513102e3395>
+
+<https://losteria.net/de/reservieren/?restaurant=895&cHash=00beea6da130b2764dc37b9f7c8d6dd1>
+
+<https://delivery.losteria.de/>
+L'Osteria Köln Ebertplatz
+<https://losteria.net/de/restaurants/restaurant/koeln-ebertplatz/>
+
+
+      Köln Ebertplatz
+      <https://losteria.net/de/restaurants/restaurant/koeln-ebertplatz/>
+
+Ebertplatz 14-16, 50668 Köln
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/koeln-ebertplatz/>
++49 221 17932090 <tel:+4922117932090>
+ebertplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6axanplhwpvWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=68&cHash=f37a40e81fab4ae29abb920145cf8c3b>
+
+<https://losteria.net/de/reservieren/?restaurant=68&cHash=3c2febad9e5ff8f12744d33ef0f411e3>
+
+<https://delivery.losteria.de/>
+L'Osteria Köln Gürzenich-Quartier
+<https://losteria.net/de/restaurants/restaurant/koeln-guerzenich-quartier/>
+
+
+      Köln Gürzenich-Quartier
+      <https://losteria.net/de/restaurants/restaurant/koeln-guerzenich-quartier/>
+
+
+Martinstraße 1, 50667 Köln
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/koeln-guerzenich-quartier/>
++49 221 27125870 <tel:+4922127125870>
+guerzenich@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6cqanvajeydWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=78&cHash=0d2234fdd4a80294e639ac0a51c3238e>
+
+<https://losteria.net/de/reservieren/?restaurant=78&cHash=4cdd5b97ab90aed4fe198e06cc377166>
+
+<https://delivery.losteria.de/>
+L'Osteria Köln Hahnenstraße
+<https://losteria.net/de/restaurants/restaurant/koeln-hahnenstrasse/>
+
+
+      Köln Hahnenstraße
+      <https://losteria.net/de/restaurants/restaurant/koeln-hahnenstrasse/>
+
+Hahnenstr. 37, 50667 Köln
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/koeln-hahnenstrasse/>
++49 221 33108383 <tel:+4922133108383>
+hahnenstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6dwdjajopnwooaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=26&cHash=decb8e7dc5d6bf6cd625bb0fda8549be>
+
+<https://losteria.net/de/reservieren/?restaurant=26&cHash=e5ea92bbbf0467171321ed6adc4823ba>
+
+<https://delivery.losteria.de/>
+L'Osteria Köln Lövenich
+<https://losteria.net/de/restaurants/restaurant/koeln-loevenich/>
+
+
+      Köln Lövenich
+      <https://losteria.net/de/restaurants/restaurant/koeln-loevenich/>
+
+Zusestraße 52, 50859 Köln
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/koeln-loevenich/>
++49 2234 6821929 <tel:+4922346821929>
+loevenich@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hkarajeydWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=89&cHash=fa3aeb359de654960308fe6f54ca1baf>
+
+<https://losteria.net/de/reservieren/?restaurant=89&cHash=6263d19712f8188f2648f59fdb6553d7>
+
+<https://delivery.losteria.de/>
+L'Osteria Köln Mülheim
+Neu Sommer 2012
+<https://losteria.net/de/restaurants/restaurant/koeln-muelheim/>
+
+
+      Köln Mülheim
+      <https://losteria.net/de/restaurants/restaurant/koeln-muelheim/>
+
+Am Kabellager 5, 51063 Köln
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/koeln-muelheim/>
++49 221- 66964740 <tel:+49221-66964740>
+koeln.schanzenstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gkahj:oydwjvajopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=920&cHash=b281dc80bd513720d2dbba54a07d7b7c>
+
+<http://>
+L'Osteria Köln Zollhafen
+<https://losteria.net/de/restaurants/restaurant/koeln-zollhafen/>
+
+
+      Köln Zollhafen
+      <https://losteria.net/de/restaurants/restaurant/koeln-zollhafen/>
+
+Im Zollhafen 2-4, 50678 Köln
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/koeln-zollhafen/>
+koeln.zollhafen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gkahj:vkhhdwbajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=911&cHash=536eadedee9c25f996af94d10cb32301>
+
+<https://losteria.net/de/reservieren/?restaurant=911&cHash=2104d5ca58fa86ead05ae0a391938766>
+
+<http://delivery.losteria.de/>
+L'Osteria Konstanz Reichenaustrasse
+<https://losteria.net/de/restaurants/restaurant/konstanz-reichenaustrasse/>
+
+
+      Konstanz Reichenaustrasse
+      <https://losteria.net/de/restaurants/restaurant/konstanz-reichenaustrasse/>
+
+
+Reichenaustrasse 15, 78467 Konstanz
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/konstanz-reichenaustrasse/>
++49 7531 9551590 <tel:+4975319551590>
+konstanz.reichenaustrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gkjopwjv:naeydajwqopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=674&cHash=9489e4b0a83680085c97166f93e14327>
+
+<https://losteria.net/de/reservieren/?restaurant=674&cHash=0b7a58e1ee0a7001f729397ddc549e32>
+
+<https://delivery.losteria.de/>
+L'Osteria Landshut Altstadt
+<https://losteria.net/de/restaurants/restaurant/landshut-altstadt/>
+
+
+      Landshut Altstadt
+      <https://losteria.net/de/restaurants/restaurant/landshut-altstadt/>
+
+Altstadt 218, 84028 Landshut
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/landshut-altstadt/>
++49 871 43038940 <tel:+4987143038940>
+landshut.altstadt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hwjzodqp:whpopwzpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=109&cHash=09b0a3faac99aa86da16162997fca49e>
+
+<https://losteria.net/de/reservieren/?restaurant=109&cHash=d203c6905ee3bd93d883ebb60a7d6580>
+
+<https://delivery.losteria.de/>
+L'Osteria Langenfeld
+<https://losteria.net/de/restaurants/restaurant/langenfeld/>
+
+
+      Langenfeld
+      <https://losteria.net/de/restaurants/restaurant/langenfeld/>
+
+Felix-Wankel-Straße 1, 40764 Langenfeld
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/langenfeld/>
++49 2173 8933987 <tel:+4921738933987>
+langenfeld@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hwjcajbahzWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=27&cHash=7b046b2291311c67985f6a9a2834c7cb>
+
+<https://losteria.net/de/reservieren/?restaurant=27&cHash=87b07af3eb1b9d9c36d3bbf127956c38>
+
+<https://delivery.losteria.de/>
+L'Osteria Leipzig <https://losteria.net/de/restaurants/restaurant/leipzig/>
+
+
+      Leipzig <https://losteria.net/de/restaurants/restaurant/leipzig/>
+
+Martin-Luther-Ring 12, 04109 Leipzig
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/leipzig/>
++49 341 35566590 <tel:+4934135566590>
+leipzig@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6haelvecWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=28&cHash=fe225e1456d8e65506b184fb48714962>
+
+<https://losteria.net/de/reservieren/?restaurant=28&cHash=b09fb4e9ebd8219c75616e1006ccee66>
+
+<https://delivery.losteria.de/>
+L'Osteria Limburg <https://losteria.net/de/restaurants/restaurant/limburg/>
+
+
+      Limburg <https://losteria.net/de/restaurants/restaurant/limburg/>
+
+Brüsseler Straße 14, 65552 Limburg an der Lahn
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/limburg/>
++49 6431 9715061 <tel:+4964319715061>
+limburg.bruesselerstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6heixqnc:xnqaooahanopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=673&cHash=c1c0b9f53fbc857e3c2437f2c93e557c>
+
+<https://losteria.net/de/reservieren/?restaurant=673&cHash=3ea019a1be150a4bb555fad0361bc577>
+
+<https://delivery.losteria.de/storedata/listStore>
+L'Osteria Lörrach
+<https://losteria.net/de/restaurants/restaurant/loerrach/>
+
+
+      Lörrach <https://losteria.net/de/restaurants/restaurant/loerrach/>
+
+Bahnhofsplatz 11, 79539 Lörrach
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/loerrach/>
+loerrach.bahnhofsplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hkannwyd:xwdjdkbolhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=908&cHash=7df1b7060cd3071cb39774f236685e9b>
+
+<https://losteria.net/de/reservieren/?restaurant=908&cHash=5f56b2143870b391b0987c553691b0ea>
+
+<http://>
+L'Osteria Lübeck <https://losteria.net/de/restaurants/restaurant/luebeck/>
+
+
+      Lübeck <https://losteria.net/de/restaurants/restaurant/luebeck/>
+
+An der Untertrave 111, 23552 Lübeck
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/luebeck/>
++49 451 45059597 <tel:+4945145059597>
+luebeck@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hqaxaygWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=29&cHash=ebb1f259792a630cb045f452e254f267>
+
+<https://losteria.net/de/reservieren/?restaurant=29&cHash=d5289ebf656d533aa4f614cfbf9b867b>
+
+<https://delivery.losteria.de/>
+L'Osteria Ludwigsburg
+<https://losteria.net/de/restaurants/restaurant/ludwigsburg/>
+
+
+      Ludwigsburg
+      <https://losteria.net/de/restaurants/restaurant/ludwigsburg/>
+
+Marstall-Center Ludwigsburg, 71634 Ludwigsburg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/ludwigsburg/>
++49 7141 9132010 <tel:+4971419132010>
+ludwigsburg.marstall@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hqzsecoxqnc:iwnopwhhWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=860&cHash=2be5ff0b0175360e4a6fc4705781c693>
+
+<https://losteria.net/de/reservieren/?restaurant=860&cHash=3511f14586e9c7d149ed6ce702e04180>
+
+<https://delivery.losteria.de/>
+L'Osteria Lüneburg
+<https://losteria.net/de/restaurants/restaurant/lueneburg/>
+
+
+      Lüneburg <https://losteria.net/de/restaurants/restaurant/lueneburg/>
+
+An den Reeperbahnen 2, 21335 Lüneburg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/lueneburg/>
++49 413170 75520 <tel:+4941317075520>
+lueneburg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6hqajaxqncWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=60&cHash=0ec8ac740964944ea02eecd770e62ad3>
+
+<https://losteria.net/de/reservieren/?restaurant=60&cHash=f0c471da82349bbb91657f11276310ed>
+
+<https://delivery.losteria.de/>
+L'Osteria Magdeburg Ernst-Reuter-Allee
+<https://losteria.net/de/restaurants/restaurant/magdeburg-ernst-reuter-allee/>
+
+
+
+      Magdeburg Ernst-Reuter-Allee
+      <https://losteria.net/de/restaurants/restaurant/magdeburg-ernst-reuter-allee/>
+
+
+Ernst-Reuter-Allee 11, 39104 Magdeburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/magdeburg-ernst-reuter-allee/>
+
++49 391 55562416 <tel:+4939155562416>
+magdeburg.ernstreuterallee@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iwczaxqnc:anjopnaqpanwhhaaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=104&cHash=a0dd588a34323987cc7e72672a6307a3>
+
+<https://losteria.net/de/reservieren/?restaurant=104&cHash=b09af891bbe5e4e7a061a258d3205f78>
+
+<https://delivery.losteria.de/>
+L'Osteria Mainz <https://losteria.net/de/restaurants/restaurant/mainz/>
+
+
+      Mainz <https://losteria.net/de/restaurants/restaurant/mainz/>
+
+Holzhofstraße 7, 55116 Mainz
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/mainz/>
++49 6131 6937440 <tel:+4961316937440>
+mainz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iwejvWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=30&cHash=a0a1742660582d7ed1bb1d7df72fbc7d>
+
+<https://losteria.net/de/reservieren/?restaurant=30&cHash=a9614a29834932d66275ce3bb35e9a74>
+
+<https://delivery.losteria.de/>
+L'Osteria Mannheim
+<https://losteria.net/de/restaurants/restaurant/mannheim/>
+
+
+      Mannheim <https://losteria.net/de/restaurants/restaurant/mannheim/>
+
+Friedrichsplatz 12, 68165 Mannheim
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/mannheim/>
++49 621 43178790 <tel:+4962143178790>
+mannheim@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iwjjdaeiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=86&cHash=6f5dcfc7cfad45d9b77810e632428a7a>
+
+<https://losteria.net/de/reservieren/?restaurant=86&cHash=bf0da0c3958e6fdb8313fde87bccfcae>
+
+<https://delivery.losteria.de/>
+L'Osteria Marl Herzlia Allee
+<https://losteria.net/de/restaurants/restaurant/marl-herzlia-allee/>
+
+
+      Marl Herzlia Allee
+      <https://losteria.net/de/restaurants/restaurant/marl-herzlia-allee/>
+
+Herzlia Allee 125, 45770 Marl
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/marl-herzlia-allee/>
++49 2365 8779388 <tel:+4923658779388>
+marl.herzliaallee@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iwnh:danvhewwhhaaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=97&cHash=752b9bb0cca10530e250a96ff230e223>
+
+<https://losteria.net/de/reservieren/?restaurant=97&cHash=306a8dffe87597cc00503eb768a78438>
+
+<https://delivery.losteria.de/>
+L'Osteria Metzingen
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/metzingen/>
+
+
+      Metzingen <https://losteria.net/de/restaurants/restaurant/metzingen/>
+
+Enzian Höfe, 72555 Metzingen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/metzingen/>
+metzingen.enzianhoefe@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iapvejcaj:ajvewjdkabaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=909&cHash=2816f7a2ec452f96ef4e7fbd2d1d80f4>
+
+<https://losteria.net/de/reservieren/?restaurant=909&cHash=605ef754e19b4d2f9512832b0a24858d>
+
+<http://>
+L'Osteria Mönchengladbach
+<https://losteria.net/de/restaurants/restaurant/moenchengladbach/>
+
+
+      Mönchengladbach
+      <https://losteria.net/de/restaurants/restaurant/moenchengladbach/>
+
+Schleswiger Str. 34, 41068 Mönchengladbach
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/moenchengladbach/>
++49 2161 8302320 <tel:+4921618302320>
+moenchengladbach@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ikajydajchwzxwydWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=31&cHash=7ad61f48bce9302011e9ce875a17bf59>
+
+<https://losteria.net/de/reservieren/?restaurant=31&cHash=792af6b9bbeec1a6825e79a450a72712>
+
+<https://delivery.losteria.de/>
+L'Osteria Mülheim an der Ruhr
+<https://losteria.net/de/restaurants/restaurant/muelheim-an-der-ruhr/>
+
+
+      Mülheim an der Ruhr
+      <https://losteria.net/de/restaurants/restaurant/muelheim-an-der-ruhr/>
+
+
+Düsseldorferstraße 162, 45481 Mülheim an der Ruhr
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muelheim-an-der-ruhr/>
+muelheim@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqahdaeiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=861&cHash=4b3160b295efc144f2194ab8a3b7346b>
+
+<https://losteria.net/de/reservieren/?restaurant=861&cHash=eb98595b001b94592af54b33eddc972b>
+
+<http://>
+L'Osteria München am Gasteig
+<https://losteria.net/de/restaurants/restaurant/muenchen-am-gasteig/>
+
+
+      München am Gasteig
+      <https://losteria.net/de/restaurants/restaurant/muenchen-am-gasteig/>
+
+Innere Wiener Straße 2, 81667 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-am-gasteig/>
++49 89 62232805 <tel:+498962232805>
+amgasteig@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6wicwopaecWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=32&cHash=69d716b090741f383cc2748f3d8c67a8>
+
+<https://losteria.net/de/reservieren/?restaurant=32&cHash=d2d77ed07e5b791b91af18546131c075>
+
+<https://delivery.losteria.de/>
+L'Osteria München Bauhausplatz
+<https://losteria.net/de/restaurants/restaurant/muenchen-bauhausplatz/>
+
+
+      München Bauhausplatz
+      <https://losteria.net/de/restaurants/restaurant/muenchen-bauhausplatz/>
+
+
+Bauhausplatz 4-6, 80807 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-bauhausplatz/>
++49 89 32308584 <tel:+498932308584>
+muenchen.bauhausplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqajydaj:xwqdwqolhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=100&cHash=a6adf6773a855fce1475124b011e1572>
+
+<https://losteria.net/de/reservieren/?restaurant=100&cHash=751681ea061b0956654d4d056ac63e83>
+
+<https://delivery.losteria.de/>
+L'Osteria München Elisabethstrasse
+<https://losteria.net/de/restaurants/restaurant/muenchen-elisabethstrasse/>
+
+
+      München Elisabethstrasse
+      <https://losteria.net/de/restaurants/restaurant/muenchen-elisabethstrasse/>
+
+
+Elisabethstraße 52, 80796 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-elisabethstrasse/>
++49 89 28803040 <tel:+498928803040>
+elisabethstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6aheowxapdopnwooaWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=57&cHash=c0fde741dc775d3a1ecc0a79f1baa0e7>
+
+<https://losteria.net/de/reservieren/?restaurant=57&cHash=0bbb634c80e1e873a587edc3e16ff7ac>
+
+<https://delivery.losteria.de/>
+L'Osteria München Hauptbahnhof
+<https://losteria.net/de/restaurants/restaurant/muenchen-hauptbahnhof/>
+
+
+      München Hauptbahnhof
+      <https://losteria.net/de/restaurants/restaurant/muenchen-hauptbahnhof/>
+
+
+Arnulfstrasse 1, 80335 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-hauptbahnhof/>
++49 89 549071700 <tel:+4989549071700>
+muc-hbf@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqy9dxbWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=47&cHash=59f0a0c3bec265fda2683f375457694f>
+
+<https://losteria.net/de/reservieren/?restaurant=47&cHash=613ccc9e8cdce6740c80be09def71c18>
+
+<https://delivery.losteria.de/>
+L'Osteria München Künstlerhaus
+<https://losteria.net/de/restaurants/restaurant/muenchen-kuenstlerhaus/>
+
+
+      München Künstlerhaus
+      <https://losteria.net/de/restaurants/restaurant/muenchen-kuenstlerhaus/>
+
+
+Lenbachplatz 8, 80333 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-kuenstlerhaus/>
++49 89 99019810 <tel:+498999019810>
+kuenstlerhaus@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6gqajophandwqoWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=33&cHash=d646902f62deb085299c065a1ecfc036>
+
+<https://losteria.net/de/reservieren/?restaurant=33&cHash=dabff56ef5766c6b2f51e9a9e193f78d>
+
+<https://delivery.losteria.de/>
+L'Osteria München Leopoldstraße
+<https://losteria.net/de/restaurants/restaurant/muenchen-leopoldstrasse/>
+
+
+      München Leopoldstraße
+      <https://losteria.net/de/restaurants/restaurant/muenchen-leopoldstrasse/>
+
+
+Leopoldstraße 28 A, 80802 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-leopoldstrasse/>
++49 89 38889711 <tel:+498938889711>
+muenchen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqajydajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=34&cHash=9693e76939025a3d856e8f87fcc7a951>
+
+<https://losteria.net/de/reservieren/?restaurant=34&cHash=837842185525e75ad1430bc06cf2073e>
+
+<https://delivery.losteria.de/>
+L'Osteria München Pasing
+<https://losteria.net/de/restaurants/restaurant/muenchen-pasing/>
+
+
+      München Pasing
+      <https://losteria.net/de/restaurants/restaurant/muenchen-pasing/>
+
+Pasinger Marienplatz 1, 81241 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-pasing/>
+muenchen.pasingermarienplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqajydaj:lwoejcaniwneajlhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=913&cHash=9a330471dd23ec7db1c45bddeaa48119>
+
+<https://losteria.net/de/reservieren/?restaurant=913&cHash=7183675d9b8d8339d8b24a8007dae167>
+
+<http://delivery.losteria.de/>
+L'Osteria München Schwanthalerstraße
+<https://losteria.net/de/restaurants/restaurant/muenchen-schwanthalerstrasse/>
+
+
+
+      München Schwanthalerstraße
+      <https://losteria.net/de/restaurants/restaurant/muenchen-schwanthalerstrasse/>
+
+
+Schwanthaler Str. 111, 80339 München
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/muenchen-schwanthalerstrasse/>
+
++49 89 59976116 <tel:+498959976116>
+muenchen.schwanthalerstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqajydaj:oydswjpdwhanopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=74&cHash=52c5c5f41be9cdb45266d5fc0b70a5c4>
+
+<https://losteria.net/de/reservieren/?restaurant=74&cHash=ec0d98860e9e92565dc6aa3c596ebc3b>
+
+<https://delivery.losteria.de/>
+L'Osteria Münster
+<https://losteria.net/de/restaurants/restaurant/muenster/>
+
+
+      Münster <https://losteria.net/de/restaurants/restaurant/muenster/>
+
+Windthorststraße 31, 48143 Münster
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/muenster/>
++49 251 98291841 <tel:+4925198291841>
+muenster@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6iqajopanWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=35&cHash=1a5c949230a8748039792c115741c338>
+
+<https://losteria.net/de/reservieren/?restaurant=35&cHash=80ce89467e47171d04d2a6c3ad14a90f>
+
+<https://delivery.losteria.de/>
+L'Osteria Neumarkt i. d. OPf.
+<https://losteria.net/de/restaurants/restaurant/neumarkt-i-d-opf/>
+
+
+      Neumarkt i. d. OPf.
+      <https://losteria.net/de/restaurants/restaurant/neumarkt-i-d-opf/>
+
+Mühlstraße 17, 92318 Neumarkt i. d. OPf.
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/neumarkt-i-d-opf/>
++49 9181 2985377 <tel:+4991812985377>
+neumarkt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6jaqiwngpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=36&cHash=a1c2318ef9be3bf64ab172f8afaf9928>
+
+<https://losteria.net/de/reservieren/?restaurant=36&cHash=bb5f2e7a0d5c2eb531a88a0c3b16403c>
+
+<https://delivery.losteria.de/>
+L'Osteria Nürnberg Hans-Sachs-Platz
+<https://losteria.net/de/restaurants/restaurant/nuernberg-hans-sachs-platz/>
+
+
+
+      Nürnberg Hans-Sachs-Platz
+      <https://losteria.net/de/restaurants/restaurant/nuernberg-hans-sachs-platz/>
+
+
+Hans-Sachs-Platz 14, 90403 Nürnberg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/nuernberg-hans-sachs-platz/>
+
++49 911 99286635 <tel:+4991199286635>
+nuernberg.hans-sachs-platz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6jqanjxanc:dwjo9owydo9lhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=896&cHash=2e7826f89f143fc0c940d4e2844f8cfb>
+
+<https://losteria.net/de/reservieren/?restaurant=896&cHash=1b69a0d03ecdf1462205c7981eff6b72>
+
+<http://>
+L'Osteria Nürnberg Tullnaupark
+<https://losteria.net/de/restaurants/restaurant/nuernberg-tullnaupark/>
+
+
+      Nürnberg Tullnaupark
+      <https://losteria.net/de/restaurants/restaurant/nuernberg-tullnaupark/>
+
+
+Am Tullnaupark 9, 90402 Nürnberg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/nuernberg-tullnaupark/>
++49 911 94007030 <tel:+4991194007030>
+tullnaupark@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6pqhhjwqlwngWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=76&cHash=b48e764e1e1419dbe1525cd9b81bd81a>
+
+<https://losteria.net/de/reservieren/?restaurant=76&cHash=0af38b8d3d9c55464f2e7e24c5371835>
+
+<https://delivery.losteria.de/>
+L'Osteria Oberhausen
+<https://losteria.net/de/restaurants/restaurant/oberhausen/>
+
+
+      Oberhausen
+      <https://losteria.net/de/restaurants/restaurant/oberhausen/>
+
+Brammenring 117, 46047 Oberhausen
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/oberhausen/>
++49 208 88248640 <tel:+4920888248640>
+oberhausen@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6kxandwqoajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=45&cHash=1fb204567e345c4b6ee0e71513afce42>
+
+<https://losteria.net/de/reservieren/?restaurant=45&cHash=d9308ca424313d6a6ce0c244dd00461d>
+
+<https://delivery.losteria.de/>
+L'Osteria Offenbach am Main
+<https://losteria.net/de/restaurants/restaurant/offenbach-am-main/>
+
+
+      Offenbach am Main
+      <https://losteria.net/de/restaurants/restaurant/offenbach-am-main/>
+
+Am Hafendeck 6-8, 63067 Offenbach am Main
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/offenbach-am-main/>
++49 69 8570 1120 <tel:+496985701120>
+offenbach@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6kbbajxwydWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=54&cHash=34affc504022aab2f1b4139ea083b61f>
+
+<https://losteria.net/de/reservieren/?restaurant=54&cHash=7e0747df507d29d03b2e572b2f4e266b>
+
+<https://delivery.losteria.de/>
+L'Osteria Oldenburg
+<https://losteria.net/de/restaurants/restaurant/oldenburg/>
+
+
+      Oldenburg <https://losteria.net/de/restaurants/restaurant/oldenburg/>
+
+Poststraße 1-3, 26122 Oldenburg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/oldenburg/>
++49 441 96039270 <tel:+4944196039270>
+oldenburg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6khzajxqncWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=707&cHash=6bf099fe0e5528096e766913522b871b>
+
+<https://losteria.net/de/reservieren/?restaurant=707&cHash=9f59214c8dec6a115fde32a4b3f427a3>
+
+<https://delivery.losteria.de/>
+L'Osteria Osnabrück
+<https://losteria.net/de/restaurants/restaurant/osnabrueck/>
+
+
+      Osnabrück
+      <https://losteria.net/de/restaurants/restaurant/osnabrueck/>
+
+Neumarkt 1, 49074 Osnabrück
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/osnabrueck/>
++49 541 99894081 <tel:+4954199894081>
+osnabrueck@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6kojwxnqaygWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=38&cHash=6d4cd0d7f38d42d5ddcb8b71d61a4e8f>
+
+<https://losteria.net/de/reservieren/?restaurant=38&cHash=51d1dd5489e7c61fe6974fd80f681a68>
+
+<https://delivery.losteria.de/>
+L'Osteria Osnabrück Hannoversche Str.
+Neu Sommer 2021
+<https://losteria.net/de/restaurants/restaurant/osnabrueck-hannoversche-str/>
+
+
+
+      Osnabrück Hannoversche Str.
+      <https://losteria.net/de/restaurants/restaurant/osnabrueck-hannoversche-str/>
+
+
+Hannoversche Straße 11, 49084 Osnabrück
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/osnabrueck-hannoversche-str/>
+
+osnabrueck.hannoverschestrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6kojwxnqayg:dwjjkranoydaopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=922&cHash=b4e853522e28cfedb0ab86c1c04f3835>
+
+<http://>
+L'Osteria Paderborn
+<https://losteria.net/de/restaurants/restaurant/paderborn/>
+
+
+      Paderborn <https://losteria.net/de/restaurants/restaurant/paderborn/>
+
+Königsplatz 15, 33098 Paderborn
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/paderborn/>
++49 5251 8775570 <tel:+4952518775570>
+paderborn@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6lwzanxknjWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=67&cHash=8c217f99be0461f2329130da54ee2bdf>
+
+<https://losteria.net/de/reservieren/?restaurant=67&cHash=237a3083997b045c5c96d52b8e8f4107>
+
+<http://>
+L'Osteria Passau
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/passau/>
+
+
+      Passau <https://losteria.net/de/restaurants/restaurant/passau/>
+
+Bahnhofstr. 24-28, 94032 Passau
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/passau/>
+feedback@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6baazxwygWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=917&cHash=9a7dc7a2a6ff61bcef9a6d64940cb856>
+
+<http://>
+L'Osteria Pforzheim
+<https://losteria.net/de/restaurants/restaurant/pforzheim/>
+
+
+      Pforzheim <https://losteria.net/de/restaurants/restaurant/pforzheim/>
+
+Marktplatz 1, 75175 Pforzheim
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/pforzheim/>
++49 7231 5653026 <tel:+4972315653026>
+pforzheim@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6lbknvdaeiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=93&cHash=24a9e7071c88284b174bdf34de612eed>
+
+<https://losteria.net/de/reservieren/?restaurant=93&cHash=bc1385a875123b7eb550f45d21201605>
+
+<https://delivery.losteria.de/>
+L'Osteria Potsdam <https://losteria.net/de/restaurants/restaurant/potsdam/>
+
+
+      Potsdam <https://losteria.net/de/restaurants/restaurant/potsdam/>
+
+Otto-Braun-Platz 1, 14467 Potsdam
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/potsdam/>
++49 331 60129800 <tel:+4933160129800>
+potsdam@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6lkpozwiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=39&cHash=90eacd20f22a5d2f26a9eff5ceb4465b>
+
+<https://losteria.net/de/reservieren/?restaurant=39&cHash=a6122c12c97b07ca04a04cf260134527>
+
+<https://delivery.losteria.de/>
+L'Osteria Regensburg
+<https://losteria.net/de/restaurants/restaurant/regensburg/>
+
+
+      Regensburg
+      <https://losteria.net/de/restaurants/restaurant/regensburg/>
+
+Watmarkt 1, 93047 Regensburg
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/regensburg/>
++49 941 5999181 <tel:+499415999181>
+regensburg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6nacajoxqncWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=92&cHash=b020d571ff55bd8afc4562c685d948db>
+
+<https://losteria.net/de/reservieren/?restaurant=92&cHash=1441055780f1a4e2ce1162f397d87c2e>
+
+<https://delivery.losteria.de/>
+L'Osteria Rosenheim
+<https://losteria.net/de/restaurants/restaurant/rosenheim/>
+
+
+      Rosenheim <https://losteria.net/de/restaurants/restaurant/rosenheim/>
+
+Adlzreiterstraße 17, 83022 Rosenheim
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/rosenheim/>
++49 8031 400655 <tel:+498031400655>
+rosenheim@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6nkoajdaeiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=91&cHash=76ca2c151fa42e2e9cc1166f9b515f72>
+
+<https://losteria.net/de/reservieren/?restaurant=91&cHash=8a3e4d64c69f9387832fc41d7298d4a9>
+
+<https://delivery.losteria.de/>
+L'Osteria Rostock <https://losteria.net/de/restaurants/restaurant/rostock/>
+
+
+      Rostock <https://losteria.net/de/restaurants/restaurant/rostock/>
+
+Steinstraße 9, 18055 Rostock
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/rostock/>
++49 381 37549844 <tel:+4938137549844>
+rostock@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6nkopkygWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=40&cHash=d8d59db650813e7c57cd61bc6600be05>
+
+<https://losteria.net/de/reservieren/?restaurant=40&cHash=d84ed04ed8174fad87d7ef867af7c56a>
+
+<https://delivery.losteria.de/>
+L'Osteria Saarbrücken
+<https://losteria.net/de/restaurants/restaurant/saarbruecken/>
+
+
+      Saarbrücken
+      <https://losteria.net/de/restaurants/restaurant/saarbruecken/>
+
+Trierer Straße 33, 66111 Saarbrücken
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/saarbruecken/>
++49 681 99274820 <tel:+4968199274820>
+saarbruecken@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6owwnxnqaygajWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=41&cHash=125647e3104f6ca67a7d2deb10de7fb5>
+
+<https://losteria.net/de/reservieren/?restaurant=41&cHash=10cdc9ca1a8a2b5d42f9bacfa5777165>
+
+<http://delivery.losteria.de/>
+L'Osteria Stuttgart Kronprinzstraße
+<https://losteria.net/de/restaurants/restaurant/stuttgart-kronprinzstrasse/>
+
+
+
+      Stuttgart Kronprinzstraße
+      <https://losteria.net/de/restaurants/restaurant/stuttgart-kronprinzstrasse/>
+
+
+Kronprinzstraße 11, 70173 Stuttgart
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/stuttgart-kronprinzstrasse/>
+
++49 711 65626187 <tel:+4971165626187>
+stuttgart.kronprinzstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6opqppcwnp:gnkjlnejvopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=716&cHash=10085be1d3982784257283bfe6714277>
+
+<https://losteria.net/de/reservieren/?restaurant=716&cHash=6b7165ba5de4d2c42aadeecaa4c6f511>
+
+<https://delivery.losteria.de/>
+L'Osteria Stuttgart Mailänder Platz
+<https://losteria.net/de/restaurants/restaurant/stuttgart-mailaender-platz/>
+
+
+
+      Stuttgart Mailänder Platz
+      <https://losteria.net/de/restaurants/restaurant/stuttgart-mailaender-platz/>
+
+
+Mailänder Platz 7, 70173 Stuttgart
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/stuttgart-mailaender-platz/>
+
++49 711 22007707 <tel:+4971122007707>
+stuttgart.mailaenderplatz@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6opqppcwnp:iwehwajzanlhwpvWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=106&cHash=f6e53968481711b7b3f78fd10749ecb2>
+
+<https://losteria.net/de/reservieren/?restaurant=106&cHash=04b59dc98b86bb9d202a2fe1efa76b65>
+
+<https://delivery.losteria.de/>
+L'Osteria Sylt Westerland
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/sylt-westerland/>
+
+
+      Sylt Westerland
+      <https://losteria.net/de/restaurants/restaurant/sylt-westerland/>
+
+Boysenstrasse 3, 25980 Westerland
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/sylt-westerland/>
+sylt@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ouhpWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=918&cHash=45100bd0d80e6e7213ad7b57b16cf57c>
+
+<http://>
+L'Osteria Trier im Posthof
+<https://losteria.net/de/restaurants/restaurant/trier-im-posthof/>
+
+
+      Trier im Posthof
+      <https://losteria.net/de/restaurants/restaurant/trier-im-posthof/>
+
+Fleischstrasse 56, 54290 Trier
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/trier-im-posthof/>
++49 651 14546888 <tel:+4965114546888>
+trier@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6pneanWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=63&cHash=2a2c5f3701feddb69792696d6c26f3ba>
+
+<https://losteria.net/de/reservieren/?restaurant=63&cHash=724f6977001aacdda181cb5ba0630ec9>
+
+<https://delivery.losteria.de/>
+L'Osteria Troisdorf
+<https://losteria.net/de/restaurants/restaurant/troisdorf/>
+
+
+      Troisdorf <https://losteria.net/de/restaurants/restaurant/troisdorf/>
+
+Junkersring 1, 53844 Troisdorf
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/troisdorf/>
++49 2241 2016502 <tel:+4922412016502>
+troisdorf@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6pnkeozknbWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=42&cHash=764baef15b7b4361675c2a06ec867027>
+
+<https://losteria.net/de/reservieren/?restaurant=42&cHash=f7291dd4231cb21a8cda4dab03f02569>
+
+<https://delivery.losteria.de/>
+L'Osteria Ulm <https://losteria.net/de/restaurants/restaurant/ulm/>
+
+
+      Ulm <https://losteria.net/de/restaurants/restaurant/ulm/>
+
+Judenhof 8, 89073 Ulm
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/ulm/>
++49 731 88015020 <tel:+4973188015020>
+ulm@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6qhiWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=43&cHash=2cbce42dd46f0907bfe10eead3c9f1c7>
+
+<https://losteria.net/de/reservieren/?restaurant=43&cHash=d1258e86c3195c69ae7c477fe1545ed9>
+
+<https://delivery.losteria.de/>
+L'Osteria Wertheim Almosenberg
+<https://losteria.net/de/restaurants/restaurant/wertheim-almosenberg/>
+
+
+      Wertheim Almosenberg
+      <https://losteria.net/de/restaurants/restaurant/wertheim-almosenberg/>
+
+
+Almosenberg 17, 97877 Wertheim
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/wertheim-almosenberg/>
++49 9342 9163131 <tel:+4993429163131>
+wertheim.almosenberg@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6sanpdaei:whikoajxancWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=102&cHash=31e1c03949195db6561bc8ced761c63f>
+
+<https://losteria.net/de/reservieren/?restaurant=102&cHash=e03428f2253d4a118ac4735aada206ab>
+
+<https://delivery.losteria.de/>
+L'Osteria Wiesbaden
+<https://losteria.net/de/restaurants/restaurant/wiesbaden/>
+
+
+      Wiesbaden <https://losteria.net/de/restaurants/restaurant/wiesbaden/>
+
+Bärenstraße 3, 65183 Wiesbaden
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/wiesbaden/>
++49 611 44763917 <tel:+4961144763917>
+wiesbaden.baerenstrasse@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6seaoxwzaj:xwanajopnwooaWhkopanew:za');>
+
+<https://losteria.net/de/speisekarte/pizza/?restaurant=715&cHash=a99ee4416072d059b67e834a72cab9e0>
+
+<https://losteria.net/de/reservieren/?restaurant=715&cHash=8d5b7a4e21e6d7690594be082081668b>
+
+<https://delivery.losteria.de/>
+L'Osteria Wolfsburg - Designer Outlets
+Neu Frühling 2021
+<https://losteria.net/de/restaurants/restaurant/wolfsburg-designer-outlets/>
+
+
+
+      Wolfsburg - Designer Outlets
+      <https://losteria.net/de/restaurants/restaurant/wolfsburg-designer-outlets/>
+
+
+An der Vorburg 1, 38440 Wolfsburg
+Zur L'Osteria
+<https://losteria.net/de/restaurants/restaurant/wolfsburg-designer-outlets/>
+
+contact@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6ykjpwypWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=897&cHash=14d4741fe5352993e11c7bfefa8548ce>
+
+<http://>
+L'Osteria Wuppertal
+<https://losteria.net/de/restaurants/restaurant/wuppertal/>
+
+
+      Wuppertal <https://losteria.net/de/restaurants/restaurant/wuppertal/>
+
+Erholungstraße 19, 42103 Wuppertal
+Zur L'Osteria <https://losteria.net/de/restaurants/restaurant/wuppertal/>
++49 202 28324400 <tel:+4920228324400>
+wuppertal@losteria.de
+<javascript:linkTo_UnCryptMailto('iwehpk6sqllanpwhWhkopanew:za');>
+<https://losteria.net/de/speisekarte/pizza/?restaurant=82&cHash=f1e1bebbb24ae4bb673ada0604498e02>
+
+<https://losteria.net/de/reservieren/?restaurant=82&cHash=a4d28150af9d6bf373b1b9d9a9875315>
+
+<https://delivery.losteria.de/>
+<https://losteria.net/de/reservieren/>
+
+
+    Reservierung
+
+Du genießt dein Leben und liebst das Risiko – in punkto Pranzo
+(Mittagstisch) oder perfekter Abend gehst du aber lieber auf numero
+sicuro? Hier kannst du einen Tisch bei uns reservieren. Sag uns einfach
+wann und wo du ihn brauchst und ein Platz in unserer L’Osteria ist dir
+sicher. Einer in unserem Herzen ja sowieso.
+
+Mehr <https://losteria.net/de/reservieren/>
+<http://delivery.losteria.de/>
+
+
+    Delivery
+
+Pizza Genuss für zu Hause - Ob liefern lassen oder selbst abholen, so
+kommst Du ganz einfach an dein Wunschgericht!
+
+jetzt bestellen <http://delivery.losteria.de/>
+
+  * Restaurants <https://losteria.net/de/restaurants/>
+  * Speisekarte <https://losteria.net/de/speisekarte/pizza/>
+  * Reservieren <https://losteria.net/de/reservieren/>
+  * Shop <https://shop.losteria.de/>
+  * Delivery <https://delivery.losteria.de/storedata/listStore>
+  * Karriere <https://losteria.net/de/karriere/>
+  * Über uns <https://losteria.net/de/ueber-uns/>
+
+------------------------------------------------------------------------
+
+  * Pizza E Pasta <https://losteria.net/de/>
+
+  * Restaurants <https://losteria.net/de/restaurants/>
+
+  * Speisekarte <https://losteria.net/de/speisekarte/pizza/>
+      o Antipasti <https://losteria.net/de/speisekarte/antipasti/>
+      o Insalatone <https://losteria.net/de/speisekarte/insalatone/>
+      o Pizza <https://losteria.net/de/speisekarte/pizza/>
+      o Pasta <https://losteria.net/de/speisekarte/pasta/>
+      o Dolci <https://losteria.net/de/speisekarte/dolci/>
+      o Bambini <https://losteria.net/de/speisekarte/bambini/>
+
+  * Reservieren <https://losteria.net/de/reservieren/>
+
+  * Shop <https://shop.losteria.de/>
+
+  * Delivery <https://delivery.losteria.de/storedata/listStore>
+
+  * Karriere <https://losteria.net/de/karriere/>
+      o Ausbildung <https://losteria.net/de/karriere/ausbildung/>
+      o Restaurant <https://losteria.net/de/karriere/restaurant/>
+      o Jobs <https://losteria.net/de/karriere/jobs/>
+
+  * Über uns <https://losteria.net/de/ueber-uns/>
+      o Franchise <https://losteria.net/de/ueber-uns/franchise/>
+      o Auszeichnungen <https://losteria.net/de/ueber-uns/auszeichnungen/>
+      o Unsere Pastamanufaktur
+        <https://losteria.net/de/ueber-uns/unsere-pastamanufaktur/>
+
+  * Über uns <https://losteria.net/de/ueber-uns/>
+      o Franchise <https://losteria.net/de/ueber-uns/franchise/>
+      o Auszeichnungen <https://losteria.net/de/ueber-uns/auszeichnungen/>
+      o Unsere Pastamanufaktur
+        <https://losteria.net/de/ueber-uns/unsere-pastamanufaktur/>
+
+  * Karriere <https://losteria.net/de/karriere/>
+      o Ausbildung <https://losteria.net/de/karriere/ausbildung/>
+      o Restaurant <https://losteria.net/de/karriere/restaurant/>
+      o Jobs <https://losteria.net/de/karriere/jobs/>
+
+  * Feedback <https://losteria.net/de/feedback/>
+
+  * Aktuelles <https://losteria.net/de/aktuelles/>
+      o Corona <https://losteria.net/de/aktuelles/corona/>
+      o Perfect Match <https://losteria.net/de/aktuelles/perfect-match/>
+      o Aktionen <https://losteria.net/de/aktuelles/aktionen/>
+      o Premium-Fertiggerichte
+        <https://losteria.net/de/aktuelles/premium-fertiggerichte/>
+      o Kinderherzen <https://losteria.net/de/aktuelles/kinderherzen/>
+      o Presse <https://losteria.net/de/aktuelles/presse/>
+      o Blog <https://losteria.net/de/aktuelles/blog/>
+
+------------------------------------------------------------------------
+
+  * <https://facebook.com/losteria>
+  * <https://instagram.com/losteria.de/>
+  * <https://www.youtube.com/channel/UC_GNGspDcWMsY1IZKzU5O1g>
+
+  * Kontakt <https://losteria.net/de/kontakt/>
+  * Impressum <https://losteria.net/de/impressum/>
+  * Datenschutz <https://losteria.net/de/datenschutz/>
+  * Datenschutz-Einstellungen <#>
+  * Kontaktdatenerhebung Covid-19
+    <https://losteria.net/de/kontaktdatenerhebung-covid-19/>
+
+© 2021 L'Osteria
+
+Wähle dein Land
+Deutschland <https://delivery.losteria.de/> Österreich
+<https://takeaway.losteria.at/> Schweiz <https://delivery.losteria.ch/>
